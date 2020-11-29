@@ -1,5 +1,0 @@
-{
-    "require": {
-        "recurly/recurly-client": "^3"
-    }
-}
