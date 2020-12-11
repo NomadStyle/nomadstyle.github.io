@@ -1,2 +1,0 @@
-# nomadstyle.github.io
-
