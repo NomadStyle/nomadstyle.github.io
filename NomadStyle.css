@@ -833,7 +833,7 @@
 }
 
 .u-section-5 .u-layout-cell-2 {
-  min-height: 400px;
+  min-height: 436px;
 }
 
 .u-section-5 .u-container-layout-2 {
@@ -841,8 +841,8 @@
 }
 
 .u-section-5 .u-form-1 {
-  height: 313px;
-  margin: 0 -60px 0 0;
+  height: 376px;
+  margin: -10px -60px 0 0;
 }
 
 .u-section-5 .u-form-group-4 {
@@ -850,6 +850,22 @@
 }
 
 .u-section-5 .u-btn-1 {
+  font-size: 1rem;
+  font-family: Montserrat, sans-serif;
+  font-weight: normal;
+  display: inline !important;
+  padding: 0;
+}
+
+.u-section-5 .u-btn-2 {
+  font-size: 1rem;
+  font-family: Montserrat, sans-serif;
+  font-weight: normal;
+  display: inline !important;
+  padding: 0;
+}
+
+.u-section-5 .u-btn-3 {
   background-image: none;
   border-style: none;
 }
@@ -874,7 +890,7 @@
   }
 
   .u-section-5 .u-layout-cell-2 {
-    min-height: 330px;
+    min-height: 360px;
   }
 
   .u-section-5 .u-form-1 {

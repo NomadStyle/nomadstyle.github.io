@@ -32692,7 +32692,7 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-sheet-1 {
-  min-height: 74px;
+  min-height: 84px;
 }
 
 .u-header .u-image-1 {
@@ -32700,84 +32700,55 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-logo-image-1 {
-  max-width: 168px;
-  max-height: 168px;
+  max-width: 171px;
+  max-height: 171px;
 }
 
 .u-header .u-menu-1 {
-  font-family: size-14;
-  margin: -44px 62px 9px auto;
+  margin: -50px 84px 22px auto;
 }
 
 .u-header .u-nav-1 {
-  font-size: 1.125rem;
+  font-size: 1.25rem;
   letter-spacing: 0px;
-  font-weight: 700;
-  text-transform: none;
-}
-
-.u-header .u-sidenav-1 {
-  width: 235px;
-  margin-right: 0;
-  margin-left: 0;
-  padding: 0;
+  font-weight: 600;
 }
 
 .u-header .u-nav-2 {
-  font-size: 1rem;
+  font-size: 1.25rem;
 }
 @media (max-width: 1199px) {
-  .u-header .u-sheet-1 {
-    min-height: 83px;
-  }
-
   .u-header .u-image-1 {
-    width: 80px;
-    height: 40px;
-    margin-left: 110px;
+    margin-left: 0;
+    width: 64px;
+    height: 21px;
   }
 
   .u-header .u-menu-1 {
     width: auto;
     margin-top: -46px;
-    margin-right: 49px;
-    margin-bottom: 30px;
+    margin-right: 0;
   }
 }
 @media (max-width: 991px) {
+  .u-header .u-menu-1 {
+    margin-top: -44px;
+    margin-bottom: 24px;
+  }
+}
+@media (max-width: 767px) {
+  .u-header .u-image-1 {
+    width: auto;
+    margin-left: 16px;
+  }
+}
+@media (max-width: 575px) {
   .u-header .u-image-1 {
     margin-left: 0;
   }
 
   .u-header .u-menu-1 {
-    margin-top: -44px;
-    margin-right: 0;
-    margin-left: 696px;
-  }
-}
-@media (max-width: 767px) {
-  .u-header .u-menu-1 {
-    margin-left: 516px;
-  }
-}
-@media (max-width: 575px) {
-  .u-header .u-sheet-1 {
-    min-height: 99px;
-  }
-
-  .u-header .u-image-1 {
-    width: auto;
-    margin-top: 24px;
-  }
-
-  .u-header .u-menu-1 {
-    margin-top: -45px;
-    margin-bottom: 33px;
-    margin-left: auto;
-  }
-
-  .u-header .u-nav-1 {
-    font-weight: 500;
+    margin-top: -50px;
   }
 }
 .u-footer {
@@ -32785,10 +32756,11 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-footer .u-sheet-1 {
-  min-height: 115px;
+  min-height: 116px;
 }
 
 .u-footer .u-text-1 {
+  font-weight: 500;
   width: 417px;
   margin: 25px auto;
 }

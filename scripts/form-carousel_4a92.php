@@ -41,10 +41,10 @@ $form = array(
     'agree' => array(
     'order' => 4,
     'type' => 'checkbox',
-    'label' => 'I accept the Terms of Service',
+    'label' => 'agree',
     'required' => true,
     'errors' => array(
-    'required' => 'Field \'I accept the Terms of Service\' is required.'
+    'required' => 'Field \'agree\' is required.'
     )
     ),
     )
