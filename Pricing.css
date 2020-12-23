@@ -222,8 +222,7 @@
 
   .u-section-1 .u-text-2 {
     font-size: 2.25rem;
-    margin-left: 57px;
-    margin-right: 57px;
+    width: 243px;
   }
 
   .u-section-1 .u-layout-cell-2 {
@@ -237,5 +236,6 @@
 
   .u-section-1 .u-text-5 {
     font-size: 2.25rem;
+    width: 218px;
   }
 }
